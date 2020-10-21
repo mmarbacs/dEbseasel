@@ -334,6 +334,7 @@ input, select, textarea {
 		.row > * {
 			box-sizing: border-box;
 			margin: auto;
+			padding-bottom: 0;
 		}
 
 		.row.gtr-uniform > * > :last-child {
