@@ -3412,6 +3412,8 @@ input, select, textarea {
 			font-style: italic;
 			margin-top: -0.25rem;
 			text-align: center;
+			width: 600px;
+			line-height: normal;
 		}
 
 		#intro + #header {
