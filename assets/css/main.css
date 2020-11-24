@@ -3412,7 +3412,7 @@ input, select, textarea {
 			font-style: italic;
 			margin-top: -0.25rem;
 			text-align: center;
-			width: 600px;
+			width: 60%;
 			line-height: normal;
 		}
 
@@ -4008,6 +4008,19 @@ input, select, textarea {
 
 		#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
 			color: #717981;
+			font-size: 1.25rem;
+			font-family: "Merriweather", Georgia, serif;
+			font-weight: 300;
+			letter-spacing: normal;
+		}
+
+		#footer h2 {
+			font-size: 1.25rem;
+			font-family: 'Mountains of Christmas', cursive;
+		}
+
+		#footer h4 {
+			font-size: 0.9rem;
 		}
 
 		#footer blockquote {
